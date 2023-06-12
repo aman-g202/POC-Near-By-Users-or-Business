@@ -5,7 +5,7 @@ A proximity based POC to find all the near by users, drivers, business's or anyt
 ## To run Google-S2
 
 ```
-npm i google-s2
+npm i s2-geometry
 node google-s2.js
 ```
 
