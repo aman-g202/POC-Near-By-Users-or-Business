@@ -1,0 +1,15 @@
+{
+  "name": "com.technomize.proximity",
+  "version": "1.0.0",
+  "description": "A proof of concept to find out near by service engineers with in a specified radius",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "s2-geometry": "^1.2.10"
+  }
+}
